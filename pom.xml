@@ -1,0 +1,58 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.micro</groupId>
+	<artifactId>netdisk</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>netdisk-service-api</module>
+		<module>netdisk-service-provider</module>
+		<module>netdisk-user-api</module>
+		<module>netdisk-user-provider</module>
+		<module>netdisk-web-manage</module>
+		<module>netdisk-web-perpc</module>
+		<module>utils-common</module>
+		<module>utils-office</module>
+		<module>utils-filestore</module>
+		<module>utils-filesearch</module>
+		<module>netdisk-log-api</module>
+		<module>netdisk-log-provider</module>
+		<module>netdisk-client</module>
+		<module>netdisk-client-provider</module>
+	</modules>
+	
+	<parent>  
+		<groupId>org.springframework.boot</groupId>  
+		<artifactId>spring-boot-starter-parent</artifactId>  
+		<version>1.5.9.RELEASE</version>  
+	</parent>
+	
+  	<properties>
+		<project.build.sourceEncoding></project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+	</properties>
+	
+	<dependencies>	
+  		<!-- lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
+	</dependencies>
+  	<build>  
+		<finalName>${project.artifactId}</finalName>
+		<plugins>  
+			<!--jdk的编译版本-->
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+		</plugins>  
+	</build>
+</project>

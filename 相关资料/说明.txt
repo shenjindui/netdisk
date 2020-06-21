@@ -1,0 +1,4 @@
+utils-office依赖aspose-words-15.8.0-jdk16.jar包，这个包在maven中央仓库没有，必须手工导入到本地仓库
+第一步：运行->cmd->弹出命令窗口
+第二步：执行命令，主要必须安装Maven
+mvn install:install-file -DgroupId=com.aspose -DartifactId=aspose-words -Dversion=15.8.0 -Dpackaging=jar -Dfile=E:/aspose-words-15.8.0-jdk16.jar

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+	<type>
+		<code>document</code>
+		<name>文档</name>
+	</type>
+	<type>
+		<code>picture</code>
+		<name>图片</name>
+	</type>
+	<type>
+		<code>video</code>
+		<name>视频</name>
+	</type>
+	<type>
+		<code>music</code>
+		<name>音乐</name>
+	</type>
+	<type>
+		<code>other</code>
+		<name>其他</name>
+	</type>
+</types>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+	<!-- ============================================================== -->
+	<!-- word -->
+	<detail>
+		<typecode>document</typecode>
+		<name>WORD</name>
+		<suffix>doc</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB/klEQVRYR+2Wz3GbUBCHv5WUc+QK7HSgdKB0QCbKOXodyBVY6cCpAHyOSOjAuAOlA7sDfFfYzDJ4hggk4GGNLubEMG/3fez+9o9w5kfOfD9vAJ0j8DXUGWPe907ZX55/OtkesmsFsItz4V5g2vvy0kAhU+X6l5No30crwJdQH8vLbwcABAiX8VIuegMsIlVVfsROVr4Ai1DXCDeifNxPR2sEDADl+8bJeigAyqeNk7TqpxEgCPXq3ZhLO6g5qUI0GlHLX+GoRWR25CUCnQEWoWZId8Wr8jl2khyKUC+ARahzhPs+4VYwoT422Gw3S7k+PYDy1ARgYLGT5ckB2kTqDaDKH4FVkRLlAbByKt4VbkX4XYY9RfhP3fY9z3my5uMNYE52ysUEkhyi0pmJLc0hGwnhMa3YD8ROZoMATOECVzuIxjBXmOaQjmEtwrcCoKVPDAW4MyFZb5hAtHEyL2u7WqqNKSDnwRrPMADIBGya2TCaWfgr70er9VVS0KUfqHIn1DvlDraJk2xQBLoAvKoGglCnE+tqPVpxrrimWf8C3ysCZlQKLihyLdyUPaBW53ZWIDm28XgNo2rYzzKOTwXgtZDYSoagIgf2gS4qVQKUDxsntb2yfSOy8QxJH1HWmJTnHFZeS2lFyUUH9Hn217DWlcznEl+b1hT4Ou5q9wbwD89iSzAQ+xK+AAAAAElFTkSuQmCC</icon>
+	</detail>
+	<detail>
+		<typecode>document</typecode>
+		<name>WORD</name>
+		<suffix>docx</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB/klEQVRYR+2Wz3GbUBCHv5WUc+QK7HSgdKB0QCbKOXodyBVY6cCpAHyOSOjAuAOlA7sDfFfYzDJ4hggk4GGNLubEMG/3fez+9o9w5kfOfD9vAJ0j8DXUGWPe907ZX55/OtkesmsFsItz4V5g2vvy0kAhU+X6l5No30crwJdQH8vLbwcABAiX8VIuegMsIlVVfsROVr4Ai1DXCDeifNxPR2sEDADl+8bJeigAyqeNk7TqpxEgCPXq3ZhLO6g5qUI0GlHLX+GoRWR25CUCnQEWoWZId8Wr8jl2khyKUC+ARahzhPs+4VYwoT422Gw3S7k+PYDy1ARgYLGT5ckB2kTqDaDKH4FVkRLlAbByKt4VbkX4XYY9RfhP3fY9z3my5uMNYE52ysUEkhyi0pmJLc0hGwnhMa3YD8ROZoMATOECVzuIxjBXmOaQjmEtwrcCoKVPDAW4MyFZb5hAtHEyL2u7WqqNKSDnwRrPMADIBGya2TCaWfgr70er9VVS0KUfqHIn1DvlDraJk2xQBLoAvKoGglCnE+tqPVpxrrimWf8C3ysCZlQKLihyLdyUPaBW53ZWIDm28XgNo2rYzzKOTwXgtZDYSoagIgf2gS4qVQKUDxsntb2yfSOy8QxJH1HWmJTnHFZeS2lFyUUH9Hn217DWlcznEl+b1hT4Ou5q9wbwD89iSzAQ+xK+AAAAAElFTkSuQmCC</icon>
+	</detail>
+	<!-- excel -->
+	<detail>
+		<typecode>document</typecode>
+		<name>Excel</name>
+		<suffix>xls</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACd0lEQVRYR2NkGGDAOMD2M+B1QOOkSf8pceB/BobEhry8BfjMoKkDQBYTcgRRDvjPwFDIwMh4gdjQYPz/fz+yWnyOIM4BjIyODbm5B4h1ALaow+UIujkAV3TQ1QHYHEF3B4AcUZ+XB7d3cDkgYKEpCfn+f+OG+DMNxCbMhsmTHWC5A2cIDAoHqIno3Kxx7vvxn4Hhf+veQq5bb66qcbPyfOr1WXKdk42Lfcv1FV9XX5pnzcAACYGA+aYGjMwM/P///r64IfHCB1whQlIINLlNO6QrYWL3////j1nrg7/0+y79ysHKqfbj9/dbkcvt1SCWQB2w0OQAAwOjPcO//44bEs8cQLYI6piD9Xl5DiQ5AKRxRuDGU+K8kmYgRzAyMvL//ffnafxKN56vv7/w08UB3Kw8HxeG7/rCzMQiDbKwfFviLVB0IIIYRwj09wswsLAYwNX9+fOhobDwAskhEKqXdDTKIMMaZtD997eOFG2OsSHkAKqkATUR7VsdnvPEQUF/+cUZcHoAGbzswoyjkASIOw1Q7ABQil8csfc/yPL7724dLdoSYx2ml3wk0iAd7Pv2fcUXTz05rE+zRCjBI/NETlDpDciyqy/OKcISHSh7CnAKff/w/R3nrTdX1GnmAGJLNpwOoCwRmqAUrQK/5BwYGBn/f2V+ffE30zfUQuYfwwFQvg9AKwcoSgPommENi/94GiR0ccAl3pUX/zL90scbPdQoCXGFwIA74AX7ldTnbOfu4E+gfy6AKqMGShIhOWmA2FxDVFGMywEM//8XMJLQLMfmqP///xswMDJOIKtJRqwviVVHcpuQWIOJVUe0A4g1kBJ1A947BgBpuUY/m4cU+wAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<detail>
+		<typecode>document</typecode>
+		<name>Excel</name>
+		<suffix>xlsx</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACd0lEQVRYR2NkGGDAOMD2M+B1QOOkSf8pceB/BobEhry8BfjMoKkDQBYTcgRRDvjPwFDIwMh4gdjQYPz/fz+yWnyOIM4BjIyODbm5B4h1ALaow+UIujkAV3TQ1QHYHEF3B4AcUZ+XB7d3cDkgYKEpCfn+f+OG+DMNxCbMhsmTHWC5A2cIDAoHqIno3Kxx7vvxn4Hhf+veQq5bb66qcbPyfOr1WXKdk42Lfcv1FV9XX5pnzcAACYGA+aYGjMwM/P///r64IfHCB1whQlIINLlNO6QrYWL3////j1nrg7/0+y79ysHKqfbj9/dbkcvt1SCWQB2w0OQAAwOjPcO//44bEs8cQLYI6piD9Xl5DiQ5AKRxRuDGU+K8kmYgRzAyMvL//ffnafxKN56vv7/w08UB3Kw8HxeG7/rCzMQiDbKwfFviLVB0IIIYRwj09wswsLAYwNX9+fOhobDwAskhEKqXdDTKIMMaZtD997eOFG2OsSHkAKqkATUR7VsdnvPEQUF/+cUZcHoAGbzswoyjkASIOw1Q7ABQil8csfc/yPL7724dLdoSYx2ml3wk0iAd7Pv2fcUXTz05rE+zRCjBI/NETlDpDciyqy/OKcISHSh7CnAKff/w/R3nrTdX1GnmAGJLNpwOoCwRmqAUrQK/5BwYGBn/f2V+ffE30zfUQuYfwwFQvg9AKwcoSgPommENi/94GiR0ccAl3pUX/zL90scbPdQoCXGFwIA74AX7ldTnbOfu4E+gfy6AKqMGShIhOWmA2FxDVFGMywEM//8XMJLQLMfmqP///xswMDJOIKtJRqwviVVHcpuQWIOJVUe0A4g1kBJ1A947BgBpuUY/m4cU+wAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<!-- txt -->
+	<detail>
+		<typecode>document</typecode>
+		<name>txt文件</name>
+		<suffix>txt</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABbklEQVRYR+WXbVEDMRCG3zoABVRCcUAd4IBSAyABCTiAOgADDDgABdRBkcA8M1nmJs3nJL1rh/2TdnLZfbKfdzNNLLOJ7SsGMJd0Uwn3IelM0kvNuRjAlVPyXqHsQRLgW0mPkn5KzpYAmGLWlVP8JmntDNy7lX0E4/x+lvSZgygBQAcKDWAhCaO+lwzAVmARQKJSC2DKAAAEsTD5AOwBee2AgxClAMSWmJJkfmztv4Xq27PEGUCWobwoBciF0lz9lHjw69AAlhMhBsJFQu5VVU8PpLwULeuTBCAhLypj3dUDlGKqTZ8Hkq0rwPDytF0Er4yeAxil5jeuRY8OQKul7m9z7TbQtv9gW6qAoXMn6bJg6BwkB2gshIFWm5PuABjdSXp1w2YSANorVWCVMHoS5m493G8OAbHO1boPNPTO6QPUuDv0bLMHUJCa9yGjzH6b/80Ak3vg/wFQcvZe33p7O897xF7TOtqP0163zur5Bbw7ZiGBctCkAAAAAElFTkSuQmCC</icon>
+	</detail>
+	<!-- ppt -->
+	<detail>
+		<typecode>document</typecode>
+		<name>PPT</name>
+		<suffix>ppt</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACEUlEQVRYR2NkgIL3DgoCX5gY5jMwMAbAxMiheUJTvv9/8cRCqHH6JWL0M8IUPXJU2MDIyOhPjCZ8avji8xm4HLy//9m9UZMzpeQhIfPgDnjspPifkGJi5EEO4IvLZ/jz6A5RjqCZA0COJcYRNHUAyBE/Tux7xGnpLI8r9GjuALAjzhy6w2lqr4rNEXRxAD5HUN0BPMGJDAJZtVhD/Ov21Rd4vMIMkSWp7gAmUSkGqRVHcGaYr9tWzuXxjkiBKaC6A0AGc7oEMgjl1TMwcvNhDwkkR9DEASBb//3+y8CqpInTEZLTVoPtppkDCBVasvvujzpgNARGQ2A0BIZACIjP2srw/egucKHGrm/B8KY2jYHbI4SBTVmL4c/LJwysylpg+Z8XToDFQWr+vngClvu6Yw3D35dPcRaIRJWEon3LGV4XRYINAbX1QBaxG1iA6Z8XT4LFsamByeErjolyACgEPkxpBJsjkF3H8KYuHezTf58/Mvy+c42BVUWLgU1Fm+FdVymKI6nmAMllhxm+7lwDNvz7kV0Mv+9eB4cEi7gMOJj/ffkEDur/Xz/TxgHIwQsLTlhUYPMlPjn06CAqCoSbZjK8rUtH0QtqcoGCH5sD8MmR5QBCdTol8kSFACUWENI7+BxArc4pIZ+D5P///79Rbv8DcC8c3iYEdc8/MzIsoEYPGZ8jQJbz/mdIEDzw4ANIHQCxNj8wneUXpAAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<!-- java -->
+	<detail>
+		<typecode>document</typecode>
+		<name>java文件</name>
+		<suffix>java</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQ0lEQVRYR+2XzXGbUBDHd58mE98sdyBXYFxBlAKESAFGlEAOsTjqCM4hKgFIAQG5AKuDkApCKohycyajt54Fv4Eo5nMiTtKFEQvv/2O/3j6Emp9hfdCIxAMAjuueq7bRLg68i7p3scpYFpdSvh+NRNIFYr+XmhDiUxy4lRq83otGJU4EPxDxChHeRr677QJgWM6UCB46A5TFhfg9JTr7ORjAoXjkr3fzhUODALwkzi4fBKBKfBCAOvFBAOaL5Q4Az2tr9ZhVwDFurvPHhBPyKGXYN8maYFr3gRPAyQMnDxzPA/YY4NUk8j/WzhHYB8CwnAn3gch3U9UPuKUrsUP7v/+LZ3sB6OYyYuFN6Bl8ZQEi+M4d9f7z3Vo3HR+RruLAu2a7bi4TAEw2oWvNbm5tnpQQ4ZI/oCeAk01Hm9Cd8lUtCkAJi86sW0OQ+MIibM/gUL679+8ihuEpS8H+F4C56aQEkCLCG8T9NYciv0eZpxDQiEN3ku+8o69E9A0Rz+PAvWwNYFhFUulm4YHSojYirIgg2ISerZvLNSLOcw9QXNyDBRGsEHHNsB0A8iET8fFCytdbFdM83rAobU4pf5nKi8wDz/E+3PoZtgOAPWZhjt/zotmkzItKSStOvkxUwhYFTDnB8uTLklVTu6OCmd04FiJprQHybOcwnGkAkKoS5BAA/EnVvMAQhe3vci2XqqqeTgBNM0DZXs6Z2mmrTyNqA3IaSDp5gIhsom6Hz6YwIEqNa73xbNhmLG8Sq7bTrzjwao/2T1YGTlN58mMOAAAAAElFTkSuQmCC</icon>
+	</detail>
+	<!-- ============================================================== -->
+	<detail>
+		<typecode>picture</typecode>
+		<name>图片</name>
+		<suffix>png</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABrklEQVRYR+2XQU7CQBSG/9eUsB05ASTUrXAC4QSGG7C1LIQToCcAF8AWb8ANxBPAmpqUE0DdKZI+U0JJKS04xQmY0GU78/5v/vfmzZRw4odOrI8LwHk5kOm8t5n4RnVdMHPDqV2PPZ2NA6JnlTTGq2pxLz4Db3PTKMUA8ItL1FcF4i1yPwDjaVYzHlUBZLoW/x8A0bKFll42mVFlrArn6NRIOSC6Vl0DWn46XNJzzn1uekx6jgNgLvrbJymEHEDLFpReDgi4BdPzrJavJxX250kByIiJzqRKwAMvUmWnkXPi5ioBED07S+5yRARxyCklAFfdyZhAmxbugiqOmR9EuZAYwBMByJ6bRiUYONOxHkFoBt8xw+GFnotKRSKAoEhwdfvODwaGc9Moh12QBhCdSUEjGvmBVqvT9CI+4VD6e0SgbFzBuUDDMY32lmOyrTic3/VpNgTjgwh3h3aKG+odUg5E5feQYPg7g6f8lSr69SAPIKsYMd7V9L7fwqUA/kB7J8QvALiv9EICDA/ciFSseztmJIA3ZH0pLahGYOb6zqVUtWhc/PP6LziFCxcHfgB3k4QwsCNpQQAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<detail>
+		<typecode>picture</typecode>
+		<name>图片</name>
+		<suffix>jpg</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABrklEQVRYR+2XQU7CQBSG/9eUsB05ASTUrXAC4QSGG7C1LIQToCcAF8AWb8ANxBPAmpqUE0DdKZI+U0JJKS04xQmY0GU78/5v/vfmzZRw4odOrI8LwHk5kOm8t5n4RnVdMHPDqV2PPZ2NA6JnlTTGq2pxLz4Db3PTKMUA8ItL1FcF4i1yPwDjaVYzHlUBZLoW/x8A0bKFll42mVFlrArn6NRIOSC6Vl0DWn46XNJzzn1uekx6jgNgLvrbJymEHEDLFpReDgi4BdPzrJavJxX250kByIiJzqRKwAMvUmWnkXPi5ioBED07S+5yRARxyCklAFfdyZhAmxbugiqOmR9EuZAYwBMByJ6bRiUYONOxHkFoBt8xw+GFnotKRSKAoEhwdfvODwaGc9Moh12QBhCdSUEjGvmBVqvT9CI+4VD6e0SgbFzBuUDDMY32lmOyrTic3/VpNgTjgwh3h3aKG+odUg5E5feQYPg7g6f8lSr69SAPIKsYMd7V9L7fwqUA/kB7J8QvALiv9EICDA/ciFSseztmJIA3ZH0pLahGYOb6zqVUtWhc/PP6LziFCxcHfgB3k4QwsCNpQQAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<detail>
+		<typecode>picture</typecode>
+		<name>图片</name>
+		<suffix>gif</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABrklEQVRYR+2XQU7CQBSG/9eUsB05ASTUrXAC4QSGG7C1LIQToCcAF8AWb8ANxBPAmpqUE0DdKZI+U0JJKS04xQmY0GU78/5v/vfmzZRw4odOrI8LwHk5kOm8t5n4RnVdMHPDqV2PPZ2NA6JnlTTGq2pxLz4Db3PTKMUA8ItL1FcF4i1yPwDjaVYzHlUBZLoW/x8A0bKFll42mVFlrArn6NRIOSC6Vl0DWn46XNJzzn1uekx6jgNgLvrbJymEHEDLFpReDgi4BdPzrJavJxX250kByIiJzqRKwAMvUmWnkXPi5ioBED07S+5yRARxyCklAFfdyZhAmxbugiqOmR9EuZAYwBMByJ6bRiUYONOxHkFoBt8xw+GFnotKRSKAoEhwdfvODwaGc9Moh12QBhCdSUEjGvmBVqvT9CI+4VD6e0SgbFzBuUDDMY32lmOyrTic3/VpNgTjgwh3h3aKG+odUg5E5feQYPg7g6f8lSr69SAPIKsYMd7V9L7fwqUA/kB7J8QvALiv9EICDA/ciFSseztmJIA3ZH0pLahGYOb6zqVUtWhc/PP6LziFCxcHfgB3k4QwsCNpQQAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<detail>
+		<typecode>picture</typecode>
+		<name>图片</name>
+		<suffix>jpeg</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABrklEQVRYR+2XQU7CQBSG/9eUsB05ASTUrXAC4QSGG7C1LIQToCcAF8AWb8ANxBPAmpqUE0DdKZI+U0JJKS04xQmY0GU78/5v/vfmzZRw4odOrI8LwHk5kOm8t5n4RnVdMHPDqV2PPZ2NA6JnlTTGq2pxLz4Db3PTKMUA8ItL1FcF4i1yPwDjaVYzHlUBZLoW/x8A0bKFll42mVFlrArn6NRIOSC6Vl0DWn46XNJzzn1uekx6jgNgLvrbJymEHEDLFpReDgi4BdPzrJavJxX250kByIiJzqRKwAMvUmWnkXPi5ioBED07S+5yRARxyCklAFfdyZhAmxbugiqOmR9EuZAYwBMByJ6bRiUYONOxHkFoBt8xw+GFnotKRSKAoEhwdfvODwaGc9Moh12QBhCdSUEjGvmBVqvT9CI+4VD6e0SgbFzBuUDDMY32lmOyrTic3/VpNgTjgwh3h3aKG+odUg5E5feQYPg7g6f8lSr69SAPIKsYMd7V9L7fwqUA/kB7J8QvALiv9EICDA/ciFSseztmJIA3ZH0pLahGYOb6zqVUtWhc/PP6LziFCxcHfgB3k4QwsCNpQQAAAABJRU5ErkJggg==</icon>
+	</detail>
+	<!-- ============================================================== -->
+	<detail>
+		<typecode>video</typecode>
+		<name>视频</name>
+		<suffix>mp4</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABL0lEQVRYR+2W0TEEQRCGv4uAEGSADMhABmSACJCBDBAJIhACMnARUJ+avmpr1NTcw+6D6Zfbu+ue/ubvnp5dsbCtFs7PABgKDAVqChwBV4CfvfYGPAE3gM9NmwKcAXfNqLaDyQ+Bj+S6C5yX7wJ+2xTAgJ3y33M7zy+PgxR/CdwCkfiiPBt0XJT6AaDkj4nwekuAlxJ3XxRQVSGyNQE2DltAfP4Rs07qzArwDqimfREKzwLgjq27pdByiWcBsInzUf5/AB5pS/CwVAniMNh8NqHNOGsTTk+jisQ8aDZhTLHeMeAkjEEU0p9WFqkC7AGvydlLpdcEiF3GJlzXEmSQKoDJPLM14l4Q6y1MvowEsSn9bTPmp5eR9DqdAPu9WUujqVxMvuYS441oKDAUGAp8AbSrWCFxZpb2AAAAAElFTkSuQmCC</icon>
+	</detail>
+	<!-- ============================================================== -->
+	<detail>
+		<typecode>music</typecode>
+		<name>音乐</name>
+		<suffix>mp3</suffix>
+		<icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABlElEQVRYR+2WwW3CQBBF52PBmRIogVSAUwHpID54LW5ROiAVhCNaI+EOQgchFRA6SCoIuVqyJxq0SAjtYmNscYj3PLv/7d/ZmQHdeOHG+tQC1OpAEAT9Xq83ZmafiB4A7NI0vUuSZOd66qsBwjD0O53OXhTA0CL0rLWe1QaglBKREYD9LUsk8YvWenoVgFjb7XZfjeighOhxyPUASqkVgPGFwofwWgDWAEYFAL9EtGJmiZWkezPxzQEw8zeAtQhrrVcHQJOY700BbOWWRJTEcfxpc6VRAK114ddtAVoH/q8DR41paMq2/NJ6C5HrGyqlAgBLS11oHsDMAT+OUl0NYDKZDPI8f2Jmab9iaV8EbA6cJN0px+UAIp5l2eYgenyiDUBmBAAbmwN5nt8vFgsp3dZlLatRFCVE9GjbcSYHbB1zm6apf/FIppRytl8XgMkDGb324Mz84XleMJ/Pv861casDrgFEDo3jWEax2pYLwPqmRe9ZhcrZWs3wOZNJSG7OzNNzyVRFXPYU9vaqB5fd1wLc3IE/nuv1IXqtP8QAAAAASUVORK5CYII=</icon>
+	</detail>
+	<!-- ============================================================== -->
+	<!-- <detail>
+		<typecode>other</typecode>
+		<name>image</name>
+		<suffix>png</suffix>
+	</detail> -->
+</details>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+	<menu>
+		<id>0</id>
+		<name>应用管理</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/app/index]]></url>
+	</menu>
+	<menu>
+		<id>1</id>
+		<name>文件管理</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/file/index]]></url>
+	</menu>
+	<menu>
+		<id>2</id>
+		<name>组件管理</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/typecomponent/index]]></url>
+	</menu>
+	<menu>
+		<id>3</id>
+		<name>文件类型</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/type/index]]></url>
+	</menu>
+	<menu>
+		<id>4</id>
+		<name>容量管理</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/user/index]]></url>
+	</menu>
+	<menu>
+		<id>5</id>
+		<name>日志追踪</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/logtrace/index]]></url>
+	</menu>
+<!-- 	<menu>
+		<id>6</id>
+		<name>统计分析</name>
+		<icon>el-icon-document</icon>
+		<url><![CDATA[/main/analy/index]]></url>
+	</menu> -->
+</menus>

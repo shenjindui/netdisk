@@ -1,0 +1,2 @@
+dubbo.provider.filter=com.micro.logs.dubbofilter.GlobalTraceFilter
+dubbo.consumer.filter=com.micro.logs.dubbofilter.GlobalTraceFilter

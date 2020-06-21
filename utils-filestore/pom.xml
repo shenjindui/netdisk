@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.micro</groupId>
+		<artifactId>netdisk</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>utils-filestore</artifactId>
+	
+	<dependencies>
+  		<!-- web -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<!-- nacos -->
+	  	<dependency>
+		    <groupId>com.alibaba.boot</groupId>
+		    <artifactId>nacos-config-spring-boot-starter</artifactId>
+		    <version>0.1.1</version>
+		</dependency>
+		<!-- FastDFS -->
+		<dependency>
+			<groupId>com.luhuiguo</groupId>
+			<artifactId>fastdfs-spring-boot-starter</artifactId>
+			<version>0.2.0</version>
+		</dependency>
+		<!-- HDFS -->
+		
+		<!-- io-common -->
+		<dependency>
+    		<groupId>commons-io</groupId>
+    		<artifactId>commons-io</artifactId>
+    		<version>2.6</version>
+		</dependency>
+	</dependencies>
+</project>

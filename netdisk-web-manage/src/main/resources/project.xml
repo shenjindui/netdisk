@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+	<project>
+		<code>disk-web-manage</code>
+		<name>网盘后台管理系统</name>
+	</project>
+	<project>
+		<code>disk-web-frontwebpage</code>
+		<name>企业网盘系统</name>
+	</project>
+</projects>

@@ -1,0 +1,128 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.micro</groupId>
+		<artifactId>netdisk</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>netdisk-web-perpc</artifactId>
+	<packaging>jar</packaging>
+	
+	<dependencies>  	
+	  	<!-- web -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+			<!-- 排除内置Tomcat -->
+			<!-- <exclusions>
+				<exclusion>
+					<artifactId>spring-boot-starter-tomcat</artifactId>
+					<groupId>org.springframework.boot</groupId>
+				</exclusion>
+			</exclusions> -->
+		</dependency>
+		<!-- servlet（如果排除内置Tomcat则加上） -->  
+		<!-- <dependency>  
+			<groupId>javax.servlet</groupId>  
+			<artifactId>javax.servlet-api</artifactId>  
+			<scope>provided</scope>  
+		</dependency> -->
+		<!-- redis -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-redis</artifactId>
+		</dependency>
+		<!-- nacos -->
+	  	<dependency>
+		    <groupId>com.alibaba.boot</groupId>
+		    <artifactId>nacos-config-spring-boot-starter</artifactId>
+		    <version>0.1.1</version>
+		</dependency>
+		<!-- dubbo-->
+		<dependency>
+	        <groupId>com.alibaba.spring.boot</groupId>
+	        <artifactId>dubbo-spring-boot-starter</artifactId>
+	        <version>2.0.0</version>
+	    </dependency>
+		<dependency>
+		  	<groupId>com.101tec</groupId>
+		  	<artifactId>zkclient</artifactId>
+		  	<version>0.9</version>
+		  	<exclusions>
+  				<exclusion>
+					<artifactId>slf4j-log4j12</artifactId>
+					<groupId>org.slf4j</groupId>
+				</exclusion>
+  			</exclusions>
+		</dependency>
+		<!-- xml -->
+  		<dependency>
+    		<groupId>com.thoughtworks.xstream</groupId>
+    		<artifactId>xstream</artifactId>
+    		<version>1.4.11.1</version>
+		</dependency>
+		<!--引入swagger-->
+       <!--  <dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.7.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.7.0</version>
+		</dependency> -->
+		<dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>2.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.xiaoymin</groupId>
+            <artifactId>swagger-bootstrap-ui</artifactId>
+            <version>1.9.3</version>
+        </dependency>
+        
+        <!-- 依赖本工程的接口 -->
+		<dependency>
+			<groupId>com.micro</groupId>
+			<artifactId>netdisk-user-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.micro</groupId>
+			<artifactId>netdisk-service-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.micro</groupId>
+			<artifactId>netdisk-log-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.micro</groupId>
+			<artifactId>utils-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.micro</groupId>
+			<artifactId>utils-office</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+  	</dependencies>
+  	
+  	<build>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+			<!--运行插件 -->
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<fork>true</fork>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
